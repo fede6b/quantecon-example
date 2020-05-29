@@ -3,6 +3,6 @@ using LinearAlgebra
 
 f(x) = x.^2
 
-x = [-1, 3]
+x = [2, 4]
 
 norm(f(x))
