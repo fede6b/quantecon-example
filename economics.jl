@@ -1,6 +1,8 @@
 # Some economics here
+using LinearAlgebra
 
-x = [1, 3, 5];
-f(x) = x.^3
+f(x) = x.^2
 
-g(x) = x .+ 4
+x = [-1, 3]
+
+f(x)
