@@ -1,7 +1,7 @@
 # Some economics here
 using LinearAlgebra
 
-f(x) = x.^2
+f(x) = x.^3
 
 x = [2, 4]
 
